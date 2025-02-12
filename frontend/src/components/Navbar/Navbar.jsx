@@ -45,7 +45,7 @@ function Navbar() {
         <>
             <nav className='relative bg-zinc-800 z-50 flex text-white px-8 py-4 items-center justify-between'>
                 <Link to='/' className='flex items-center '>
-                    <img className='h-10 me-4' src="https://cdn-icons-png.flaticon.com/128/10433/10433049.png" alt="logo" />
+                    <img className='h-10 me-4' src="/logo.png" alt="logo" />
                     <h1 className='text-2xl font-semibold'>Bookaroo</h1>
                 </Link>
                 <div className='nav-links-bookheaven block md:flex items-center gap-4 ' >
